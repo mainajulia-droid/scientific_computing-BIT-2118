@@ -1,1 +1,3 @@
 # scientific_computing-BIT-2118
+JULIA WAMBUI MAINA 
+BSCCS262718012
